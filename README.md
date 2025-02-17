@@ -2,7 +2,7 @@
 
 Simple image editor, implemented with Delphi programming language.
 
-No special libraries have been used in this project, so it was a good practice for us to learn image enhancement algorithms.
+No special libraries have been used in this project, so it was good practice for us to learn image enhancement and image processing algorithms in middle school.
 
 ## Screenshots
 
@@ -21,4 +21,4 @@ Open the project with Embarcadero RAD Studio Delphi.
 
 ## Run
 
-Clone the project and run ImageWorkshop.exe (in Windows).
+Clone the project and run ImageWorkshop.exe (on Windows).
