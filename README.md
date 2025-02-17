@@ -1,6 +1,6 @@
 # Image Workshop
 
-Simple image editor, implemented with Delphi programming language.
+Just a simple image editor, implemented with Delphi programming language, for educational programming purposes.
 
 No special libraries have been used in this project, so it was good practice for us to learn image enhancement and image processing algorithms in middle school.
 
